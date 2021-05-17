@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Auth0**
 
-- 💬 Ask me about **React | Redux | Node | express**
-
 - 📫 How to reach me **romio.ezequiel@gmail.com**
 
 
