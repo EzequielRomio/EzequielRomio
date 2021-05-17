@@ -1,37 +1,64 @@
-## Hi there 👋 I'm Ezequiel Romio
-#### Fullstack developer from Argentina
+<h1 align="center">Hi 👋, I'm Ezequiel Romio</h1>
+<h3 align="center">Full Stack developer from Argentina</h3>
+
+- 🔭 I’m currently working on [e-shirt](https://github.com/rocco9022/eshirt)
+
+- 🌱 I’m currently learning **Auth0**
+
+- 💬 Ask me about **React | Redux | Node | express**
+
+- 📫 How to reach me **romio.ezequiel@gmail.com**
 
 
-### _Frontend_:
-![image](https://user-images.githubusercontent.com/73430686/118494852-f1cfbc80-b6f8-11eb-86ba-b01687ebb7e6.png)
-![image](https://user-images.githubusercontent.com/73430686/118494960-1330a880-b6f9-11eb-9ec0-cfbf98e01295.png)
-![image](https://user-images.githubusercontent.com/73430686/118494991-1af04d00-b6f9-11eb-9a2f-680aa72a584e.png)
-![image](https://user-images.githubusercontent.com/73430686/118494933-0a3fd700-b6f9-11eb-9973-b2ce23edd2b8.png)
-![image](https://user-images.githubusercontent.com/73430686/118495016-23488800-b6f9-11eb-8221-098b759d6842.png)
+<h3 align="left">Languages and Tools:</h3>
 
-
-### _Backend_:
-![image](https://user-images.githubusercontent.com/73430686/118495045-2c395980-b6f9-11eb-9d1c-b25d57b30ccc.png)
-![image](https://user-images.githubusercontent.com/73430686/118494913-02803280-b6f9-11eb-97c3-7b10b49513a5.png)
-![image](https://user-images.githubusercontent.com/73430686/118495061-322f3a80-b6f9-11eb-9e8a-cc3562d5c8a1.png)
-![image](https://user-images.githubusercontent.com/73430686/118495197-57bc4400-b6f9-11eb-8841-55c4c9289c4e.png)
-
-![image](https://user-images.githubusercontent.com/73430686/118495119-43784700-b6f9-11eb-983f-8df23b05bbb7.png)
-![image](https://user-images.githubusercontent.com/73430686/118495140-4a9f5500-b6f9-11eb-8732-6399fd1126de.png)
-
-
-
-<!--
-**EzequielRomio/EzequielRomio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h5>Front-end Technologies:</h5>
+<p align="left"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a>
+  <a href="https://reactjs.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a> 
+  <a href="https://redux.js.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
+  </a>
+  
+  <a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a>
+  
+  <a href="https://www.w3schools.com/css/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a>
+ </p>
+ 
+ <h5>Back-end Technologies:</h5>
+ <p align="left" >
+  <a href="https://nodejs.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> 
+  </a>
+ 
+ <a href="https://www.python.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+ </a> 
+ 
+  <a href="https://expressjs.com" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  </a> 
+ 
+  <a href="https://flask.palletsprojects.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
+  </a>
+ </p>
+ 
+ <h5>Database</h5>
+ <p align="left">
+  <a href="https://www.postgresql.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+  </a>
+  
+  <a href="https://www.sqlite.org/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
+  </a>
+</p>
