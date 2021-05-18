@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **romio.ezequiel@gmail.com**
 
-- :blue_book: Take a look to <a href="https://ezequielromio.github.io/">**My Portfolio**</a>!
+- :blue_book: Take a look at <a href="https://ezequielromio.github.io/">**My Portfolio**</a>!
 
 
 <h3 align="left">Languages and Tools:</h3>
