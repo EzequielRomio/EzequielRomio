@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ezequiel Romio</h1>
 <h3 align="center">Full Stack developer from Argentina</h3>
 
-- 🔭 I’m currently working on [e-shirt](https://github.com/rocco9022/eshirt)
+- 🔭 I’m currently working on **[e-shirt](https://github.com/rocco9022/eshirt)**
 
 - 🌱 I’m currently learning **Auth0**
 
 - 📫 How to reach me **romio.ezequiel@gmail.com**
+
+- :blue_book: Take a look to <a href="https://ezequielromio.github.io/">**My Portfolio**</a>!
 
 
 <h3 align="left">Languages and Tools:</h3>
