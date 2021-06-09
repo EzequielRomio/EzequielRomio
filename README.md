@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ezequiel Romio</h1>
 <h3 align="center">Full Stack developer from Argentina</h3>
 
-- 🔭 I’m currently working on **[e-shirt](https://github.com/rocco9022/eshirt)**
+- 🔭 I’m currently working on **[e-shirt](https://github.com/rocco9022/eshirt)** and **[ThePrescriptionsRegistry](https://github.com/EzequielRomio/ThePrescriptionsRegistry)**
 
-- 🌱 I’m currently learning **Auth0**
+- 🌱 I’m currently learning **[canvasJS](https://canvasjs.com/)**
 
 - 📫 How to reach me **romio.ezequiel@gmail.com**
 
