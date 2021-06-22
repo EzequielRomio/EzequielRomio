@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **[e-shirt](https://github.com/rocco9022/eshirt)** and **[ThePrescriptionsRegistry](https://github.com/EzequielRomio/ThePrescriptionsRegistry)**
 
-- 🌱 I’m currently learning **[canvasJS](https://canvasjs.com/)**
+- 🌱 I’m currently learning **[Fabric.js](http://fabricjs.com/)**
 
 - 📫 How to reach me **romio.ezequiel@gmail.com**
 
